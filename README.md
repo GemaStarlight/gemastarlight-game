@@ -4,7 +4,7 @@ Videojuego de tipo "memory game" desarrollado en HTML5, CSS3 y JavaScript para a
 
 Si desea instalar el juego, simplemente descargar este archivo en 
 
-https://github.com/GemaStarlight/gemastarlight-game
+https://github.com/GemaStarlight/gemastarlight-game/archive/v1.0.2.zip
 
 descargar e iniciar en su navegador el archivo index.html
 
